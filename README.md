@@ -10,4 +10,6 @@ All Solitaire variation JAR files were generated using an abstracted Scala-Java 
 
 A JAR file exists in the main directory of this project. A version of the launcher can be run directly from that JAR file. 
 
-NOTE: If an error regarding a JSON parsing library occurs, be sure to add the json-jar/json-simple-1.1.1 to the classpath.
+NOTES: 
+- Only Versions of Java which contain JavaFX can run the JavaFX application (ex: Java 8)
+- If an error regarding a JSON parsing library occurs, be sure to add the json-jar/json-simple-1.1.1 to the classpath.
