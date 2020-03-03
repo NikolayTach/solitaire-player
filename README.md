@@ -12,5 +12,6 @@ A JAR file exists in the main directory of this project. A version of the launch
 - Run Command: ```java -jar solitaire-player.jar```
 
 NOTES: 
-- Java 8 is reccomended for this version of the GUI launcher.
+- Java 8 is reccommended for this version of the GUI launcher.
 - If an error regarding a JSON parsing library occurs, be sure to add the json-jar/json-simple-1.1.1 to the classpath.
+- If a new version of the launcher jar is to be created, be sure to include both the ```lib``` and ```bin``` directories of a JavaFx SDK download in the JAR's production. 
