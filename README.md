@@ -1,4 +1,6 @@
 # SolitaireJarDownloader
+<a href="https://java-nogue.io" rel="nofollow"><img src="https://camo.githubusercontent.com/d7558dcb1235994939a8ab60181d2f940f9057c6c9f12a886b65524a56f156c3/68747470733a2f2f696d672e6573612e696f2f75706c6f6164732f70726f64756374696f6e2f6174746163686d656e74732f31373539362f323032312f30352f31382f3130313539302f31306639623332642d663161622d346633622d613566312d6563666234616630316339392e706e67" alt="nogue" data-canonical-src="https://img.esa.io/uploads/production/attachments/17596/2021/05/18/101590/10f9b32d-f1ab-4f3b-a5f1-ecfb4af01c99.png" style="max-width: 100%;"></a>
+
 Jar retriever and runner for solitaire variations
 
 Created by Daniel Duff (dfduff@wpi.edu) and Andrew Levy (amlevy@wpi.edu) 
